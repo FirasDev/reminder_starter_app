@@ -19,8 +19,8 @@ The android app lets you:
 
 [<img src="https://i.imgur.com/sCrL7xR.png" align="left"
 width="200"
-    hspace="10" vspace="10">]
+    hspace="10" vspace="10">](/readme/Wallabag%20Reading%20List.png)
     
 [<img src="https://i.imgur.com/7Nrnqvx.png" align="left"
 width="200"
-    hspace="10" vspace="10">]
+    hspace="10" vspace="10">](/readme/Wallabag%20Reading%20List.png)
