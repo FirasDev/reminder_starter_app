@@ -1,6 +1,6 @@
 # epap Reminder Starter App - Android App [![Build Status](https://travis-ci.org/wallabag/android-app.svg?branch=master)](https://travis-ci.org/wallabag/android-app)
 
-<img src="https://lh3.googleusercontent.com/ruDAxcWKY28tfBOecf4uc-joZhsUa9rrzOi56PKmw6QakpAszxRYLZqLnFRiAtlDOhg=s360" align="left"
+<img src="https://epap.app/images/epap-logo-on-bright.png" align="left"
 width="200" hspace="10" vspace="10">
 
 A native Android application to set up custom alarms.  
@@ -21,6 +21,6 @@ The android app lets you:
 width="200"
     hspace="10" vspace="10">]
     
-[<img src="https://i.imgur.com/7Nrnqvx.png" align="right"
+[<img src="https://i.imgur.com/7Nrnqvx.png" align="left"
 width="200"
     hspace="10" vspace="10">]
