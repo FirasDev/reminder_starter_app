@@ -3,7 +3,7 @@
 <img src="https://epap.app/images/epap-logo-on-bright.png" align="left"
 width="200" hspace="10" vspace="10">
 
-A native Android application to set up custom alarms.  
+A native Android application to set up custom alarms.                     
 
 
 ## Features
